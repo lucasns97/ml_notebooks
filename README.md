@@ -1,2 +1,2 @@
-# ml_notebooks
+# ML Notebooks
 A repo for ML sketch notebooks
