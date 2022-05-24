@@ -4,9 +4,7 @@
 
 @date: 30/11/2021
 
----
-
-A repository for Machine Learning (ML) Python Notebooks.
+    *A repository for Machine Learning (ML) Python Notebooks.*
 
 ---
 
