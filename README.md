@@ -27,13 +27,13 @@ Using Tensorflow and open source data to train custom [Convolutional Neural Netw
 
 ---
 
-### [Generative Adversarial Network](https://github.com/lucasns97/ml_notebooks/tree/main/Generative%20Adversarial%20Network)
+### [Generative Adversarial Network](https://github.com/lucasns97/ml_notebooks/tree/main/Generative%20Adversarial%20Networks)
 
 [Generative Adversarial Network (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network) visualizations and implementations with Tensorflow and open source data.
 
 ---
 
-### [Deep Neural Network](https://github.com/lucasns97/ml_notebooks/tree/main/https://github.com/lucasns97/ml_notebooks/tree/main/Deep%20Neural%20Networks)
+### [Deep Neural Network](https://github.com/lucasns97/ml_notebooks/tree/main/Deep%20Neural%20Networks)
 
 Studing [Deep Neural Network (DNN)](https://en.wikipedia.org/wiki/Deep_learning) concept, and applications such as [Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning#:~:text=Transfer%20learning%20(TL)%20is%20a,when%20trying%20to%20recognize%20trucks.).
 
