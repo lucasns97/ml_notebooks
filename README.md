@@ -8,6 +8,13 @@
 
 ---
 
+### [Perceptron](https://github.com/lucasns97/ml_notebooks/tree/main/XOR)
+
+Implementation of [Perceptron](https://pt.wikipedia.org/wiki/Perceptron) with Python with Numpy.
+
+
+---
+
 ### [Multi Layer Perceptron](https://github.com/lucasns97/ml_notebooks/tree/main/XOR)
 
 Implementation with Python, and linear algebra libraries of a [Multi Layer Perceptron (MLP)](https://en.wikipedia.org/wiki/Multilayer_perceptron).
