@@ -42,3 +42,7 @@ Studing [Deep Neural Network (DNN)](https://en.wikipedia.org/wiki/Deep_learning)
 ### [XOR](https://github.com/lucasns97/ml_notebooks/tree/main/XOR)
 
 Visualization of the process of learning of a Neural Network solving [XOR (Exclusive Or)](https://pt.wikipedia.org/wiki/Ou_exclusivo) problem.
+
+---
+
+-- *Special thanks to Emanuel Huber and Francielle Vargas.*
